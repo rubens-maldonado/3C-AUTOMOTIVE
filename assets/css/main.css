@@ -818,7 +818,7 @@ section,
 
 @media (max-width: 1199px) { /* Telas notebook */
   .hero .imagem-1  {
-    background-image: url(../img/IMGSLIDE01.png);
+    background-image: url(../img/imgslide01.png);
   }
 
   .hero .imagem-2 {
